@@ -52,6 +52,7 @@ Este projeto é um backend para uma plataforma de e-commerce, desenvolvido em Py
 
 5. Instale as dependências:
    'pip install flask flask_sqlalchemy'
+## Uso
 
 1. Configure o banco de dados:
 'python db_setup.py'
